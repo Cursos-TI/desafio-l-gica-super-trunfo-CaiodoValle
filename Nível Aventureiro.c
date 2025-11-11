@@ -126,6 +126,35 @@
               {
             case 1:
                 printf("\nMOSTRANDO TODOS OS DADOS E COMPARAÇÕES...\n\n");
+                printf("\n ==== CADASTRO COMPLETO DO CARTÃO 1 ====\n");
+
+                printf("Letra: %c \n", Estado1);
+                printf("Codigo da carta: %s \n", Codigo1);
+                printf("Cidade: %s \n", Cidade1);
+                printf("População: %d de habitantes \n", Populacao1);
+                printf("Área em km²: %.2f km²\n", Area1);
+                printf("PIB da Cidade: %.2f Bilhões de Reais \n",PIB1);
+                printf("Total de Pontos Turísticos: %d\n ",turistico1);
+                printf("Densidade Populacional: %2f hab/km²\n",DensidadePopulacional);
+                printf("PIB per Capita: R$ %2f Reais\n",PIBperCapita);
+                printf("Super Poder: %.2f",SuperPoderA);
+                printf("\n\n");
+
+                printf("MOSTRANDO CARTA 2....................\n");
+
+                printf("\n==== CADASTRO COMPLETO DO CARTÃO 2 ====\n");
+
+                printf("Letra: %c \n", Estado2);
+                printf("Codigo da carta: %s \n", Codigo2);
+                printf("Cidade: %s \n", Cidade2);
+                printf("População: %d  de habitantes \n", Populacao2);
+                printf("Área em km²: %.2f km²\n", Area2);
+                printf("PIB da Cidade: %.2f Bilhões de Reais \n",PIB2);
+                printf("Total de Pontos Turísticos: %d\n ",turistico2);
+                printf("Densidade Populacional: %.2f hab/km²\n",DensidadePopulacional2);
+                printf("PIB per Capita: R$ %.2f Reais\n",PIBperCapita2);
+                printf("Super Poder: %.2f",SuperPoderB);
+
 
                 printf("População: CARTA 1 = %d | CARTA 2 = %d\n", Populacao1, Populacao2);
                 if (Populacao1 > Populacao2)
