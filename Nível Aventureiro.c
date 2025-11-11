@@ -154,6 +154,7 @@
                 printf("Densidade Populacional: %.2f hab/km²\n",DensidadePopulacional2);
                 printf("PIB per Capita: R$ %.2f Reais\n",PIBperCapita2);
                 printf("Super Poder: %.2f",SuperPoderB);
+                printf("\n\n");
 
 
                 printf("População: CARTA 1 = %d | CARTA 2 = %d\n", Populacao1, Populacao2);
