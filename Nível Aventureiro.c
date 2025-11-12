@@ -331,10 +331,7 @@
 
                  printf("\nEncerrando o jogo.........................\n");
 
-                 printf("\n====================================\n");
-                 printf("        OBRIGADO POR JOGAR !!");
-                 printf("\n====================================\n\n");
-
+                 
                 break;
             }
             break;
